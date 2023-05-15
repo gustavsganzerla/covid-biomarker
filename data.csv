@@ -1,0 +1,109 @@
+﻿Study.Number,Diagnosis,SOFA.Score,MOF,wbc,neutro
+3,septic shock,9,1,2.5,2
+5,septic shock,5,0,18.2,19.2
+10,septic shock,7,0,15.4,13.5
+12,septic shock,7,0,37.2,7
+13,sepsis,3,0,16.6,14.2
+14,sepsis+covid ,4,0,9.4,8.1
+15,septic shock,16,1,6.7,5.7
+16,septic shock,2,0,12.9,10.9
+18,septic shock,6,0,16.3,10.9
+19,sepsis+covid ,10,1,9,8.5
+20,sepsis,5,0,14.1,10.8
+21,sepsis,11,1,8.4,20.9
+22,septic shock,11,1,18.2,15
+23,septic shock,9,1,11.8,10
+24,sepsis+covid ,2,0,11.6,10.2
+25,sepsis+covid ,7,0,10.5,9.2
+26,septic shock,16,1,14.1,14.1
+27,sepsis,2,0,36.2,10.9
+29,sepsis,6,0,11.8,8.6
+31,sepsis,13,1,13,12.1
+33,sepsis,8,1,10,6.6
+34,sepsis,5,0,6.6,4
+35,sepsis,3,0,26.3,21.5
+36,sepsis+covid ,10,1,25.1,20.6
+37,septic shock,13,1,21.4,22.6
+39,sepsis,7,0,11,9.1
+40,sepsis,12,1,8.2,9
+42,septic shock,6,0,25.1,23.4
+43,septic shock,6,0,16.7,16
+44,septic shock,4,0,39.6,37.6
+45,sepsis,6,0,8.8,6.7
+46,sepsis,4,0,10.6,9.4
+48,sepsis,15,1,18,13.8
+49,septic shock,15,1,19.4,17.1
+51,septic shock,4,0,32.2,29.6
+52,sepsis+covid ,9,1,9.9,8.2
+53,sepsis+covid ,4,0,10.4,8.8
+54,sepsis+covid ,13,1,16,15
+57,sepsis,2,0,5.3,3.8
+58,septic shock,18,1,86.4,84.4
+59,septic shock,12,1,18,16.1
+60,sepsis,2,0,7.5,5.3
+61,septic shock,10,1,28,26.9
+62,sepsis,11,1,64.1,34
+63,sepsis+covid ,8,1,21.9,20
+64,septic shock,2,0,15,0.6
+65,septic shock,14,1,9.9,9.1
+66,sepsis+covid ,13,1,6.8,6.1
+67,sepsis,9,1,8.3,6.8
+69,sepsis+covid ,7,0,4.8,3.8
+70,sepsis,8,1,12,10.4
+71,septic shock,10,1,54.5,33.2
+72,sepsis,0,0,12,8.5
+73,sepsis,4,0,20,18.1
+74,sepsis+covid ,11,1,8.2,8.7
+75,septic shock,0,0,44.6,41.8
+76,sepsis+covid ,13,1,15.7,12.2
+77,sepsis+covid ,9,1,9.6,8.1
+78,sepsis+covid ,12,1,10.9,9.9
+79,sepsis,7,0,10,7
+80,sepsis+covid ,10,1,15.3,13.8
+81,sepsis+covid ,11,1,5.5,3.2
+82,sepsis+covid ,13,1,17.1,16.1
+83,sepsis+covid ,4,0,,10
+84,sepsis+covid ,4,0,,3.5
+85,sepsis+covid ,6,0,5.7,4.3
+86,sepsis+covid ,6,0,13.1,7.2
+87,sepsis+covid ,12,1,11.2,16.4
+88,sepsis+covid ,6,0,10.3,8.7
+91,sepsis+covid ,2,0,10.3,8.3
+92,sepsis+covid ,7,0,14.3,12.3
+93,sepsis+covid ,3,0,8.5,7.5
+94,sepsis+covid ,10,1,5.5,3.9
+95,sepsis+covid ,11,1,7.7,7
+96,sepsis+covid ,13,1,10.9,9.4
+97,sepsis+covid ,8,1,19.9,17.8
+98,sepsis+covid ,7,0,13.3,9.2
+99,septic shock,5,0,21.5,20
+100,sepsis,12,1,7.9,5.5
+101,septic shock,11,1,15.1,13.7
+102,sepsis,9,1,19.9,18.4
+104,septic shock,4,0,16.7,15.5
+106,sepsis+covid ,9,1,14.6,13.7
+107,sepsis,9,1,22.2,20.2
+109,sepsis,6,0,19.9,17.9
+110,sepsis+covid ,6,0,15,13.8
+111,sepsis+covid ,9,1,46.3,40.5
+112,septic shock,9,1,12.6,10.6
+113,sepsis+covid ,2,0,3.5,2.4
+114,sepsis+covid ,5,0,20.1,15.5
+115,septic shock,12,1,58.3,4.1
+116,sepsis+covid ,7,0,14.7,12.7
+117,sepsis+covid ,10,1,9.6,8.8
+118,sepsis+covid ,9,1,16.8,14.9
+119,sepsis+covid ,9,1,12.8,11
+120,sepsis+covid ,5,0,15,6.4
+121,sepsis,4,0,10.1,7.9
+122,sepsis+covid ,8,1,9.5,8.2
+123,sepsis+covid ,10,1,12.6,9.8
+124,sepsis+covid ,7,0,8.5,7.5
+125,sepsis+covid ,8,1,19.4,14.6
+126,sepsis+covid ,2,0,16.1,9.4
+128,sepsis+covid ,8,1,12.6,3.3
+129,sepsis,4,0,14.6,13.6
+130,sepsis+covid ,2,0,8.9,7.5
+131,sepsis+covid ,8,1,12.1,8.2
+132,sepsis+covid ,4,0,15.2,13.5
+133,sepsis,5,0,3.3,1.6
